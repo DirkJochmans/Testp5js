@@ -8,5 +8,5 @@ function draw() {
   } else {
     fill(100);
   }
-  ellipse(mouseX, mouseY, 80, 80);
+  ellipse(mouseX, mouseY, 10, 10);
 }
